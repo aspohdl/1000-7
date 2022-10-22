@@ -1,3 +1,5 @@
+print('i love u')
+
 import random
 day = 1
 satiety = 15
